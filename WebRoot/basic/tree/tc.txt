@@ -1,0 +1,6 @@
+﻿[{
+    id: 2,
+    text: '客户注册',
+    leaf: true,
+    iconCls : 'register-customer'
+}]

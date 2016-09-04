@@ -1,0 +1,21 @@
+﻿[{
+    id: 3,
+    text: '维修方法',
+    leaf: true,
+    iconCls : 'register-waymaintain'
+},{
+    id: 4,
+    text: '发货方法',
+    leaf: true,
+    iconCls : 'register-waysend'
+},{
+    id: 5,
+    text: '收货方法',
+    leaf: true,
+    iconCls : 'register-wayreceive'
+},{
+    id: 6,
+    text: '报价方法',
+    leaf: true,
+    iconCls : 'register-wayprice'
+}]
